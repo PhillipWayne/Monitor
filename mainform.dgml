@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" Layout="ForceDirected" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @2 @3 Member=(Name=DataFilter OverloadingParameters=[@6,@6,@6,@6,@6]))" Category="CodeSchema_Method" Bounds="177.931839760638,-194.122588848966,91.4999999999999,25.8366666666667" CodeSchemaProperty_IsPrivate="True" CommonLabel="DataFilter" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="方法" Label="DataFilter" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/shuya/desktop/cbtc业务监测/monitorports20160126/monitorports/mainform.cs StartLineNumber=101 StartCharacterOffset=8 EndLineNumber=101 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="(@1 @2 @3 Member=(Name=GetDataHex OverloadingParameters=[@13,(@4 @5 Type=Int32),(@4 @5 Type=Int32)]))" Category="CodeSchema_Method" Bounds="223.902393395106,200.134477335612,105.253333333333,25.8366666666667" CodeSchemaProperty_IsPrivate="True" CommonLabel="GetDataHex" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="方法" Label="GetDataHex" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/shuya/desktop/cbtc业务监测/monitorports20160126/monitorports/mainform.cs StartLineNumber=124 StartCharacterOffset=8 EndLineNumber=124 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="(@1 @2 @3 Member=(Name=GetDataTxt OverloadingParameters=[@13,(@4 @5 Type=Int32),(@4 @5 Type=Int32)]))" Category="CodeSchema_Method" Bounds="304.316374399087,115.764581333426,100.513333333333,25.8366666666667" CodeSchemaProperty_IsPrivate="True" CommonLabel="GetDataTxt" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="方法" Label="GetDataTxt" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/shuya/desktop/cbtc业务监测/monitorports20160126/monitorports/mainform.cs StartLineNumber=160 StartCharacterOffset=8 EndLineNumber=160 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="(@1 @2 @3 Member=(Name=GetMessageHeaderLen OverloadingParameters=[@6]))" Category="CodeSchema_Method" Bounds="296.650090274793,-13.9896018176353,169.116666666667,25.8366666666667" CodeSchemaProperty_IsPrivate="True" CommonLabel="GetMessageHeaderLen" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="方法" Label="GetMessageHeaderLen" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/shuya/desktop/cbtc业务监测/monitorports20160126/monitorports/mainform.cs StartLineNumber=146 StartCharacterOffset=8 EndLineNumber=146 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="(@1 @2 @3 Member=(Name=ToolStrip_Filter_Click @8))" Category="CodeSchema_Method" Bounds="-270.755281575521,-285.156540885417,154.516666666667,25.8366666666666" CodeSchemaProperty_IsPrivate="True" CommonLabel="ToolStrip_Filter_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="方法" Label="ToolStrip_Filter_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/shuya/desktop/cbtc业务监测/monitorports20160126/monitorports/mainform.cs StartLineNumber=223 StartCharacterOffset=8 EndLineNumber=223 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="(@1 @2 @3 Member=(Name=listView_Data_ItemSelectionChanged OverloadingParameters=[(@4 @5 Type=Object),(@12 Namespace=System.Windows.Forms Type=ListViewItemSelectionChangedEventArgs)]))" Category="CodeSchema_Method" Bounds="-556.504472957547,-155.555627693619,247.74,25.8366666666667" CodeSchemaProperty_IsPrivate="True" CommonLabel="listView_Data_ItemSelectionChanged" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="方法" Label="listView_Data_ItemSelectionChanged" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/shuya/desktop/cbtc业务监测/monitorports20160126/monitorports/mainform.cs StartLineNumber=231 StartCharacterOffset=8 EndLineNumber=231 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="(@1 @2 Type=FilterForm Member=.ctor)" Category="CodeSchema_Method" Bounds="-249.607485813093,185.306651569604,94.4533333333334,25.8366666666666" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CommonLabel="FilterForm" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="构造函数" Label="FilterForm" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Shuya/Desktop/CBTC业务监测/MonitorPorts20160126/MonitorPorts/FilterForm.cs StartLineNumber=19 StartCharacterOffset=8 EndLineNumber=19 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@10" Category="CodeSchema_Method" Bounds="-153.160444844564,-229.31977421875,152.976666666667,25.8366666666667" CodeSchemaProperty_IsPrivate="True" CommonLabel="ToolStrip_Start_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="方法" Label="ToolStrip_Start_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/shuya/desktop/cbtc业务监测/monitorports20160126/monitorports/mainform.cs StartLineNumber=176 StartCharacterOffset=8 EndLineNumber=176 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@11" Category="CodeSchema_Method" Bounds="-225.022143835118,-15.5320495872085,152.583333333333,25.8366666666667" CodeSchemaProperty_IsPrivate="True" CommonLabel="ToolStrip_Stop_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="方法" Label="ToolStrip_Stop_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/shuya/desktop/cbtc业务监测/monitorports20160126/monitorports/mainform.cs StartLineNumber=197 StartCharacterOffset=8 EndLineNumber=197 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@14" Category="CodeSchema_Method" Bounds="141.441710306803,-132.752460759481,85.8466666666667,25.8366666666667" CodeSchemaProperty_IsPrivate="True" CommonLabel="AddItem" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="方法" Label="AddItem" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/shuya/desktop/cbtc业务监测/monitorports20160126/monitorports/mainform.cs StartLineNumber=91 StartCharacterOffset=8 EndLineNumber=91 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@15" Category="CodeSchema_Method" Bounds="194.354216918945,48.682891830953,112.03,25.8366666666667" CodeSchemaProperty_IsPublic="True" CommonLabel="Data_Receive" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="方法" Label="Data_Receive" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/shuya/desktop/cbtc业务监测/monitorports20160126/monitorports/mainform.cs StartLineNumber=53 StartCharacterOffset=8 EndLineNumber=53 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@16" Category="CodeSchema_Method" Bounds="-245.422251965152,82.1773511412697,94.7733333333333,25.8366666666667" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CommonLabel="MainForm" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="构造函数" Label="MainForm" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/shuya/desktop/cbtc业务监测/monitorports20160126/monitorports/mainform.cs StartLineNumber=37 StartCharacterOffset=8 EndLineNumber=37 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@17" Category="CodeSchema_Method" Bounds="-106.586662648519,-93.2304168426514,65.2466666666667,25.8366666666667" CodeSchemaProperty_IsPrivate="True" CommonLabel="Clear" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="方法" Label="Clear" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/shuya/desktop/cbtc业务监测/monitorports20160126/monitorports/mainform.cs StartLineNumber=212 StartCharacterOffset=8 EndLineNumber=212 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@18" Category="CodeSchema_Method" Bounds="-470.163311939367,-11.722126677222,151.766666666667,25.8366666666667" CodeSchemaProperty_IsPrivate="True" CommonLabel="InitializeComponent" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="方法" Label="InitializeComponent" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Users/Shuya/Desktop/CBTC业务监测/MonitorPorts20160126/MonitorPorts/MainForm.Designer.cs StartLineNumber=28 StartCharacterOffset=8 EndLineNumber=28 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@19" Category="CodeSchema_Method" Bounds="-2.71038805632077,-70.6920673398887,113.66,25.8366666666667" CodeSchemaProperty_IsPrivate="True" CommonLabel="UpdateStatus" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="方法" Label="UpdateStatus" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/shuya/desktop/cbtc业务监测/monitorports20160126/monitorports/mainform.cs StartLineNumber=112 StartCharacterOffset=8 EndLineNumber=112 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@7" Category="CodeSchema_Method" Bounds="2.17239339510598,185.521135050456,191.73,25.8366666666667" CodeSchemaProperty_IsPrivate="True" CommonLabel="SnifferSocket_PacketArrival" FunctionTypeFlags="方法" Label="SnifferSocket_PacketArrival" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/shuya/desktop/cbtc业务监测/monitorports20160126/monitorports/mainform.cs StartLineNumber=47 StartCharacterOffset=8 EndLineNumber=47 EndCharacterOffset=8)" UseManualLocation="True" />
+    <Node Id="@9" Category="CodeSchema_Method" Bounds="-179.859726257324,-149.067183509318,155.14,25.8366666666667" CodeSchemaProperty_IsPrivate="True" CommonLabel="ToolStrip_Clear_Click" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="方法" Label="ToolStrip_Clear_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/users/shuya/desktop/cbtc业务监测/monitorports20160126/monitorports/mainform.cs StartLineNumber=207 StartCharacterOffset=8 EndLineNumber=207 EndCharacterOffset=8)" UseManualLocation="True" />
+  </Nodes>
+  <Links>
+    <Link Source="@10" Target="@19" Category="CodeSchema_Calls" Bounds="-66.020686429081,-203.483107552083,103.763411732742,125.847042083966" Weight="2" />
+    <Link Source="@11" Target="@19" Category="CodeSchema_Calls" Bounds="-101.223513150301,-42.4938323158864,99.1515231671827,26.9617828570648" Weight="1" />
+    <Link Source="@14" Target="(@1 @2 @3 Member=(Name=DataFilter OverloadingParameters=[@6,@6,@6,@6,@6]))" Category="CodeSchema_Calls" Bounds="192.641176493587,-160.707716184034,17.9095436874331,27.9552611465996" Weight="1" />
+    <Link Source="@14" Target="@19" Category="CodeSchema_Calls" Bounds="89.3559803951675,-106.915788370768,67.8975027057187,32.3523454573384" Weight="1" />
+    <Link Source="@15" Target="(@1 @2 @3 Member=(Name=GetDataHex OverloadingParameters=[@13,(@4 @5 Type=Int32),(@4 @5 Type=Int32)]))" Category="CodeSchema_Calls" Bounds="252.600567460476,74.519560139974,20.165278620402,116.746242300078" Weight="3" />
+    <Link Source="@15" Target="(@1 @2 @3 Member=(Name=GetDataTxt OverloadingParameters=[@13,(@4 @5 Type=Int32),(@4 @5 Type=Int32)]))" Category="CodeSchema_Calls" Bounds="270.436388421003,74.519560139974,56.5019655651868,36.37339846748" Weight="1" />
+    <Link Source="@15" Target="(@1 @2 @3 Member=(Name=GetMessageHeaderLen OverloadingParameters=[@6]))" Category="CodeSchema_Calls" Bounds="277.338374811496,15.735071802817,68.7840282425789,32.9478216704903" Weight="1" />
+    <Link Source="@15" Target="@14" Category="CodeSchema_Calls" Bounds="192.141417728231,-98.4580620894546,53.5282523890266,147.140955562762" Weight="1">
+      <Category Ref="CodeSchema_FunctionPointer" />
+    </Link>
+    <Link Source="@16" Target="(@1 @2 Type=FilterForm Member=.ctor)" Category="CodeSchema_Calls" Bounds="-201.457652863521,108.014021199544,2.87776340965527,68.3006084020573" Weight="1" />
+    <Link Source="@16" Target="@18" Category="CodeSchema_Calls" Bounds="-359.162905922526,17.9991025792114,134.128760270861,64.1782519536662" Weight="1" />
+    <Link Source="@16" Target="@7" Category="CodeSchema_Calls" Bounds="-161.025434728895,108.014021199544,213.555426182017,74.5411651601476" Weight="1">
+      <Category Ref="CodeSchema_FunctionPointer" />
+    </Link>
+    <Link Source="@17" Target="@19" Category="CodeSchema_Calls" Bounds="-41.3399959818522,-74.5714597012357,29.766906287065,5.23798746064621" Weight="1" />
+    <Link Source="@18" Target="(@1 @2 @3 Member=(Name=ToolStrip_Filter_Click @8))" Category="CodeSchema_Calls" Bounds="-384.794029949455,-252.065576441297,176.484309085957,240.343449200798" Weight="1">
+      <Category Ref="CodeSchema_FunctionPointer" />
+    </Link>
+    <Link Source="@18" Target="(@1 @2 @3 Member=(Name=listView_Data_ItemSelectionChanged OverloadingParameters=[(@4 @5 Type=Object),(@12 Namespace=System.Windows.Forms Type=ListViewItemSelectionChangedEventArgs)]))" Category="CodeSchema_Calls" Bounds="-426.870769916717,-121.022834100668,29.1460123757397,109.300706860169" Weight="1">
+      <Category Ref="CodeSchema_FunctionPointer" />
+    </Link>
+    <Link Source="@18" Target="@10" Category="CodeSchema_Calls" Bounds="-376.082427978516,-198.289276123047,262.809722900391,186.567149162292" Weight="1">
+      <Category Ref="CodeSchema_FunctionPointer" />
+    </Link>
+    <Link Source="@18" Target="@11" Category="CodeSchema_Calls" Bounds="-318.396634928385,-1.29035574247539,84.3755742424555,1.30916331527109" Weight="1">
+      <Category Ref="CodeSchema_FunctionPointer" />
+    </Link>
+    <Link Source="@18" Target="@9" Category="CodeSchema_Calls" Bounds="-366.816094579141,-119.399761981313,228.918458957076,107.677634740814" Weight="1">
+      <Category Ref="CodeSchema_FunctionPointer" />
+    </Link>
+    <Link Source="@7" Target="@15" Category="CodeSchema_Calls" Bounds="112.418410036634,80.5339166972241,116.87445293828,104.987218353232" Weight="1" />
+    <Link Source="@9" Target="@17" Category="CodeSchema_Calls" Bounds="-95.7361620078865,-123.230516842651,11.1474945682246,21.9738519655475" Weight="1" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Calls" Label="调用" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="调用者" OutgoingActionLabel="调用" />
+    <Category Id="CodeSchema_FunctionPointer" Label="函数指针" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="函数指针" OutgoingActionLabel="函数指针" />
+    <Category Id="CodeSchema_Member" Label="编号" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" NavigationActionLabel="成员" />
+    <Category Id="CodeSchema_Method" Label="方法" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" NavigationActionLabel="方法" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsConstructor" Label="是构造函数" Description="一个标志，用于指示该方法是构造函数" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPrivate" Label="是私有的" Description="一个标志，用于指示该范围是“私有”范围" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="是公共的" Description="一个标志，用于指示该范围是“公共”范围" DataType="System.Boolean" />
+    <Property Id="CommonLabel" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="已虚拟化数据" Description="如果为 true，则图中可以包含表示虚拟化节点/链接(即，不在图中实际创建)的数据的节点和链接。" DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="DelayedCrossGroupLinksState" Label="延迟的跨组链接状态" Description="如果未指定延迟的跨组链接状态，则为 Unspecified。如果尚未将此节点上延迟的跨组链接提取到关系图中，则为 NotFetched。如果已提取所有延迟的跨组链接，则为 Fetched。" DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FunctionTypeFlags" Label="FunctionTypeFlags" Description="FunctionTypeFlags" DataType="System.String" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" Label="图标" Description="图标" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="Label" Label="标签" Description="可批注对象的可显示标签" DataType="System.String" />
+    <Property Id="Language" Label="语言" Description="语言" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="SourceLocation" Label="起始行号" DataType="Microsoft.VisualStudio.GraphModel.CodeSchema.SourceLocation" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+    <Property Id="Weight" Label="粗细" Description="粗细" DataType="System.Double" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="ArrayRank" Label="数组秩" ValueType="System.String" />
+    <Name Id="Assembly" Label="程序集" ValueType="Uri" />
+    <Name Id="Member" Label="编号" ValueType="System.Object" />
+    <Name Id="Name" Label="名称" ValueType="System.String" />
+    <Name Id="Namespace" Label="命名空间" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="参数" ValueType="Microsoft.VisualStudio.GraphModel.GraphNodeIdCollection" Formatter="NameValueNoEscape" />
+    <Name Id="ParentType" Label="父类型" ValueType="System.Object" />
+    <Name Id="Type" Label="类型" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(0d501c54-f26f-4798-9e2d-dc149196b1c1.OutputPathUri)" />
+    <Alias n="2" Id="Namespace=MonitorPorts" />
+    <Alias n="3" Id="Type=MainForm" />
+    <Alias n="4" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll" />
+    <Alias n="5" Id="Namespace=System" />
+    <Alias n="6" Id="(@4 @5 Type=String)" />
+    <Alias n="7" Id="(@1 @2 @3 Member=(Name=SnifferSocket_PacketArrival OverloadingParameters=[(@4 @5 Type=Object),(@1 @2 Type=(Name=PacketArrivedEventArgs ParentType=RawSocket))]))" />
+    <Alias n="8" Id="OverloadingParameters=[(@4 @5 Type=Object),(@4 @5 Type=EventArgs)]" />
+    <Alias n="9" Id="(@1 @2 @3 Member=(Name=ToolStrip_Clear_Click @8))" />
+    <Alias n="10" Id="(@1 @2 @3 Member=(Name=ToolStrip_Start_Click @8))" />
+    <Alias n="11" Id="(@1 @2 @3 Member=(Name=ToolStrip_Stop_Click @8))" />
+    <Alias n="12" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/System.Windows.Forms.dll" />
+    <Alias n="13" Id="(@4 @5 Type=(Name=Byte ArrayRank=1 ParentType=Byte))" />
+    <Alias n="14" Id="(@1 @2 @3 Member=(Name=AddItem OverloadingParameters=[@6,@6,@6,@6,@6,@6,@6,@6,@6,@6,@6]))" />
+    <Alias n="15" Id="(@1 @2 @3 Member=(Name=Data_Receive OverloadingParameters=[(@4 @5 Type=Double),@6,@6,@6,@6,@6,(@4 @5 Type=UInt32),@13,(@4 @5 Type=UInt32),@13,(@4 @5 Type=UInt32),@13]))" />
+    <Alias n="16" Id="(@1 @2 @3 Member=.ctor)" />
+    <Alias n="17" Id="(@1 @2 @3 Member=Clear)" />
+    <Alias n="18" Id="(@1 @2 @3 Member=InitializeComponent)" />
+    <Alias n="19" Id="(@1 @2 @3 Member=UpdateStatus)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="结果" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="程序集" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="命名空间" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="接口" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="结构" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="枚举" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="委托" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="类" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="属性" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="方法" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="事件" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="字段" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="True">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="外部" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Target.HasCategory('CodeSchema_Field') And HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="0d501c54-f26f-4798-9e2d-dc149196b1c1.OutputPathUri" Value="file:///C:/Users/Shuya/Desktop/CBTC业务监测/MonitorPorts20160126/MonitorPorts/bin/Debug/MonitorPorts.exe" />
+    <Path Id="FxReferenceAssembliesUri" Value="file:///C:/Program Files/Reference Assemblies/Microsoft/Framework" />
+  </Paths>
+</DirectedGraph>
